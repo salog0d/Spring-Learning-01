@@ -1,4 +1,4 @@
-### Spring Bean Wiring Notes
+# Spring Bean Wiring Notes
 
 #### Context
 
