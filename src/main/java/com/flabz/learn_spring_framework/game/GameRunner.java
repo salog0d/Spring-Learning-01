@@ -1,9 +1,9 @@
-package com.flabz.learn_spring_framework;
+package com.flabz.learn_spring_framework.game;
 
 public class GameRunner {
-    MarioGame game;
+    private GamingConsole game;
 
-    public GameRunner(MarioGame _game) {
+    public GameRunner(GamingConsole _game) {
         this.game = _game;
     }
 

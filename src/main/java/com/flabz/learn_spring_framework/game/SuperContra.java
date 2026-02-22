@@ -1,6 +1,6 @@
-package com.flabz.learn_spring_framework;
+package com.flabz.learn_spring_framework.game;
 
-public class MarioGame {
+public class SuperContra implements GamingConsole {
 
     public void up() {
         System.out.println("Pressed up");
@@ -17,5 +17,4 @@ public class MarioGame {
     public void left() {
         System.out.println("Pressed left");
     }
-
 }
